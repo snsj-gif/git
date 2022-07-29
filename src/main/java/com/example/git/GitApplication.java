@@ -11,6 +11,8 @@ public class GitApplication {
         System.out.println("helloGit2");
         System.out.println("helloGit hot-fix");
         System.out.println("merge master");
+        System.out.println("hot");
+
 
     }
 
