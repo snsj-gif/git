@@ -10,6 +10,8 @@ public class GitApplication {
         System.out.println("helloGit");
         System.out.println("helloGit2");
         System.out.println("helloGit hot-fix");
+        System.out.println("hot");
+
 
     }
 
