@@ -14,7 +14,7 @@ public class GitApplication {
         System.out.println("hot");
 
         System.out.println("push test");
-
+        System.out.println("pull test");
 
     }
 
